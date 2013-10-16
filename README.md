@@ -34,7 +34,7 @@ Here is a link to the source code: https://github.com/quicksilver/Quicksilver
 Miro beautiful interface. Plays any video type. Subscribe to video RSS, download, and watch all in one. Torrent support. Search and download from YouTube and others. Miro is licensed under the GPL.
 Here is a link to the source code http://www.getmiro.com/download/for-osx/ 
 
-
+"pruuuuuuuuuuuuuuuuuuuuuuuuufaaaaaaaaaaaaaaaaaaaa"
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
