@@ -6,10 +6,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-Það gekk ágætlega að setja upp Linux. Við prófuðum fyrst að vera með Ubuntu á USB disk málið var að við gátum þá ekki vistað skjöl og breytingarnar vistuðust ekki á USB kubbinn. Því var tekið upp á því að setja Ubuntu upp á VirtualBox sem virkaði mjög vel. ![valid XHTML][checkmark].
-
-[checkmark]: http://imageshack.us/f/94/a592.png/
-             "What are you smiling at"
+Það gekk ágætlega að setja upp Linux. Við prófuðum fyrst að vera með Ubuntu á USB disk málið var að við gátum þá ekki vistað skjöl og breytingarnar vistuðust ekki á USB kubbinn. Því var tekið upp á því að setja Ubuntu upp á VirtualBox sem virkaði mjög vel. ![Skjáskot af Ubuntu](http://imageshack.us/f/94/a592.png/).
 
 ## 2. Uppsetning á vim && git
 
