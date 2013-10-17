@@ -11,8 +11,8 @@ Hér er listi yfir hópmeðlimum.
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 Það gekk ágætlega að setja upp Linux. Við prófuðum fyrst að vera með Ubuntu á USB disk málið var að við gátum þá ekki vistað skjöl og breytingarnar vistuðust ekki á USB kubbinn. Því var tekið upp á því að setja Ubuntu upp á VirtualBox sem virkaði mjög vel. !
-[Skjáskot af Ubuntu](http://i.imgur.com/Ru0KLBz.jpg). Ólafur Helgi
-[Skjáskot af Ubuntu](http://i.imgur.com/xYKgmj1.png?1) Andri Fannar
+[Skjáskot af Ubuntu](http://i.imgur.com/Ru0KLBz.jpg) Skjáskot frá Ólafi Helga.
+[Skjáskot af Ubuntu](http://i.imgur.com/xYKgmj1.png?1) Skjáskot frá Andra Fannari.
 
 ## 2. Uppsetning á vim && git
 
@@ -91,6 +91,10 @@ It was released under Apache License.
 Here can you find a download for the source code http://source.android.com/source/downloading.html as you
 
 can see it is also like Ubuntu download, you download it using github f.x.
+
+/////////////////////////////////////////////////////////////////////////
+
+Sveinn Henrik Kristinsson sveinnhk13@ru.is
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
