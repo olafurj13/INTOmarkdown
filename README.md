@@ -33,7 +33,57 @@ Here is a link to the source code: https://github.com/quicksilver/Quicksilver
 Miro beautiful interface. Plays any video type. Subscribe to video RSS, download, and watch all in one. Torrent support. Search and download from YouTube and others. Miro is licensed under the GPL.
 Here is a link to the source code http://www.getmiro.com/download/for-osx/ 
 
-"pruuuuuuuuuuuuuuuuuuuuuuuuufaaaaaaaaaaaaaaaaaaaa"
+//////////////////////////////////////////////////////////////////////////////
+
+Ólafur Helgi Jónsson olafurj13@ru.is
+
+CodeBlocks 
+
+Is a free and open source. 
+
+Code::Blocks is distributed under the GPL v3.0 license which means it can be used freely
+
+by anyone!
+
+Here can you find a download for the source code of CodeBlocks http://www.codeblocks.org/downloads/source
+
+
+
+Linux Ubuntu
+
+Ubuntu does not have "one" licence but here is the "main" component licence policy
+
+Ubuntu 'main' component licence policy
+
+All application software included in the Ubuntu main component:
+
+Must include source code. The main component has a strict and non-negotiable requirement that application 
+
+software included in it must come with full source code.Must allow modification and distribution of 
+
+modified copies under the same licence. Just having the source code does not convey the same freedom as 
+
+having the right to change it. Without the ability to modify software, the Ubuntu community cannot support 
+
+software, fix bugs, translate it, or improve it.
+
+
+Here can you find a download for the source code of ubuntu. https://wiki.ubuntu.com/Kernel/SourceCode 
+
+you will have to download it using github f.x.
+
+
+Andriod
+
+Linux based operating system that is an open source.
+
+Andriod initially developed by Andriod INC which google backed financially and later bought.
+
+It was released under Apache License.
+
+Here can you find a download for the source code http://source.android.com/source/downloading.html as you
+
+can see it is also like Ubuntu download, you download it using github f.x.
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
