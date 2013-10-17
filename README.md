@@ -3,8 +3,8 @@
 Hér er listi yfir hópmeðlimum.
 
 - [Ólafur Helgi Jónsson](http://example.com/ "Title")
-i- [Andri Fannar Freysson](https://github.com/andrif13)
-ii- [Sveinn Henrik Kristinsson](http://girhub.com/svennihk)
+- [Andri Fannar Freysson](https://github.com/andrif13)
+- [Sveinn Henrik Kristinsson](http://girhub.com/svennihk)
  
 
 ## 1. Linux uppsetning
@@ -14,7 +14,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 Það gekk ágætlega að setja upp Linux. Við prófuðum fyrst að vera með Ubuntu á USB disk málið var að við gátum þá ekki vistað skjöl og breytingarnar vistuðust ekki á USB kubbinn. Því var tekið upp á því að setja Ubuntu upp á VirtualBox sem virkaði mjög vel. !
 [Skjáskot af Ubuntu](http://i.imgur.com/Ru0KLBz.jpg) Skjáskot frá Ólafi Helga.
 [Skjáskot af Ubuntu](http://i.imgur.com/xYKgmj1.png?1) Skjáskot frá Andra Fannari.
-[Skjáskot af Ubuntu](http://i.imgur.com/ZTUqF8I.png?1)Skjáskot frá Sveinn Hinrik
+[Skjáskot af Ubuntu](http://i.imgur.com/ZTUqF8I.png?1) Skjáskot frá Sveinn Hinrik
 
 ## 2. Uppsetning á vim && git
 
