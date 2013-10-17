@@ -102,3 +102,5 @@ Sveinn Henrik Kristinsson sveinnhk13@ru.is
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+
+Það gekk þokkalega vel að vinna með markdown formattið. Þurftum að googla ýmislegt til þess að sitja inn hyperlinka og skjáskotin, fyrir utan það hefur allt gengið býsna vel. 
