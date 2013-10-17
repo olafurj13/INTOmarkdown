@@ -18,7 +18,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 ## 2. Uppsetning á vim && git
 
-Lítið mál fylgdum skipunum. Á USB kubbnum þurftum við að gera sudo apt-get update en hættum síðan við það að hafa þetta á USB kubbnum. Ástæður þess voru að við getum ekki saveað eitthvað niður í USB kubbinn. Á VirtualBox var ekkert mál og hefur gengið einsog í sögu.
+Lítið mál að setja upp vim og git fylgdum skipunum. Á USB kubbnum þurftum við að gera sudo apt-get update en hættum síðan við það að hafa þetta á USB kubbnum. Ástæður þess voru að við getum ekki saveað eitthvað niður í USB kubbinn. Á VirtualBox var ekkert mál og hefur gengið einsog í sögu.
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -42,7 +42,7 @@ Here is a link to the source code: https://github.com/quicksilver/Quicksilver
 
 
 Miro beautiful interface. Plays any video type. Subscribe to video RSS, download, and watch all in one. Torrent support. Search and download from YouTube and others. Miro is licensed under the GPL.
-Here is a link to the source code http://www.getmiro.com/download/for-osx/ 
+Here is a link to the source code http://ftp.osuosl.org/pub/pculture.org/miro/src
 
 //////////////////////////////////////////////////////////////////////////////
 
@@ -99,6 +99,18 @@ can see it is also like Ubuntu download, you download it using github f.x.
 /////////////////////////////////////////////////////////////////////////
 
 Sveinn Henrik Kristinsson sveinnhk13@ru.is
+Bitcoin
+
+Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part. Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system. The original Bitcoin software bay Satoshi Nakamoto was released under the MIT license.
+To download Bitcoin source code https://github.com/bitcoin/bitcoin
+
+Miro Video Converter
+
+Miro Video Converter is a super simple way to convert almost any video to h.264, MP4, WebM (vp8), Ogg Theora, or for Android, Droid, iPhone, iPod, iPod Touch and more.Miro Video Converter is free and open source software licensed under version 3 of the GNU General Public License.
+Here you can download the  Miro Video Converter source code http://ftp.osuosl.org/pub/pculture.org/miro/src
+
+GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring. The terms of usage and rules about copying are clearly listed in the GNU General Public License.
+Here can you download GIMP source code http://www.gimp.org/source 
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
