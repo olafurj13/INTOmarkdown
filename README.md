@@ -10,11 +10,13 @@ Hér er listi yfir hópmeðlimum.
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-Það gekk ágætlega að setja upp Linux. Við prófuðum fyrst að vera með Ubuntu á USB disk málið var að við gátum þá ekki vistað skjöl og breytingarnar vistuðust ekki á USB kubbinn. Því var tekið upp á því að setja Ubuntu upp á VirtualBox sem virkaði mjög vel. ![Skjáskot af Ubuntu](http://i.imgur.com/Ru0KLBz.jpg).
+Það gekk ágætlega að setja upp Linux. Við prófuðum fyrst að vera með Ubuntu á USB disk málið var að við gátum þá ekki vistað skjöl og breytingarnar vistuðust ekki á USB kubbinn. Því var tekið upp á því að setja Ubuntu upp á VirtualBox sem virkaði mjög vel. !
+[Skjáskot af Ubuntu](http://i.imgur.com/Ru0KLBz.jpg). Ólafur Helgi
+[Skjáskot af Ubuntu](http://i.imgur.com/xYKgmj1.png?1) Andri Fannar
 
 ## 2. Uppsetning á vim && git
 
-Lítið mál fylgdum skipunum. Á USB kubbnum þurftum við að gera sudo apt-get update en á VirtualBox var ekkert mál.
+Lítið mál fylgdum skipunum. Á USB kubbnum þurftum við að gera sudo apt-get update en hættum síðan við það að hafa þetta á USB kubbnum. Ástæður þess voru að við getum ekki saveað eitthvað niður í USB kubbinn. Á VirtualBox var ekkert mál og hefur gengið einsog í sögu.
 
 ## 3. Unnið með Git (1. hluti)
 
