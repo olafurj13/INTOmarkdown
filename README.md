@@ -24,6 +24,8 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
+Það gekk mjög vel að forka NIM verkefnið og lítið mál að skrifa inní .cpp skránna. Hér er tengill á útgáfuna. https://github.com/yab1sh/INTOPrufa
+ 
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
