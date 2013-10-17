@@ -1,6 +1,11 @@
 #Open Source
 
-EH LISTI KEMUR HER sjá markdown
+Hér er listi yfir hópmeðlimum.
+
+- Ólafur Helgi Jónsson
+- Andri Fannar Freysson
+- Sveinn Henrik Kristinsson
+
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
