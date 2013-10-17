@@ -2,8 +2,8 @@
 
 Hér er listi yfir hópmeðlimum.
 
-- Ólafur Helgi Jónsson
-- Andri Fannar Freysson
+- [Ólafur Helgi Jónsson](http://example.com/ "Title")
+- [Andri Fannar Freysson](https://github.com/andrif13)
 - Sveinn Henrik Kristinsson
 
 ## 1. Linux uppsetning
