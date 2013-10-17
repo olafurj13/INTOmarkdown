@@ -2,9 +2,9 @@
 
 Hér er listi yfir hópmeðlimum.
 
-- [Ólafur Helgi Jónsson](http://example.com/ "Title")
+- [Ólafur Helgi Jónsson](https://github.com/yab1sh)
 - [Andri Fannar Freysson](https://github.com/andrif13)
-- [Sveinn Henrik Kristinsson](http://girhub.com/svennihk)
+- [Sveinn Henrik Kristinsson](https://github.com/svennihk)
  
 
 ## 1. Linux uppsetning
